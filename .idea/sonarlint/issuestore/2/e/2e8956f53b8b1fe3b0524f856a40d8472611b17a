@@ -1,0 +1,17 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»þïì
+=
+java:S1659	""Declare "loss" on a separate line.(¦¯·Òþÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Çµí‘
+:
+java:S1659"$Declare "loss11" on a separate line.(‡‰™Î
+9
+java:S1659"#Declare "win21" on a separate line.(‡‰™Î
+:
+java:S1659"$Declare "loss21" on a separate line.(‡‰™Î
+M	java:S106;"9Replace this use of System.out or System.err by a logger.(œ—Ê=
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(šó¤Ýüÿÿÿÿ
+@
+java:S1481"*Remove this unused "count" local variable.(æÕ¿¼

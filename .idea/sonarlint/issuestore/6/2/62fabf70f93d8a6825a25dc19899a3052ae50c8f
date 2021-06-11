@@ -1,0 +1,24 @@
+
+`	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+h
+java:S1104"RMake reader a static final constant or non-public and provide accessors if needed.(Ê×ş¬
+k
+java:S1104"UMake tokenizer a static final constant or non-public and provide accessors if needed.(ÀˆÁ†
+g
+java:S3008r"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹åØğûÿÿÿÿ
+e
+java:S3008t"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óƒõ±
+5
+java:S1659p"Declare "n" on a separate line.(¾è»
+5
+java:S1659p"Declare "m" on a separate line.(¾è»
+u
+java:S1845r"ZRename field "N" to prevent any misunderstanding/clash with field "n" defined on line 112.(‹åØğûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(×ú¬Æ
+V	java:S125."<This block of commented-out lines of code should be removed.(Æºêüÿÿÿÿ
+V	java:S125M"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ
+V	java:S125."<This block of commented-out lines of code should be removed.(Æºêüÿÿÿÿ
+V	java:S125M"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ
+V	java:S125."<This block of commented-out lines of code should be removed.(Æºêüÿÿÿÿ
+V	java:S125M"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(ÛÂ
