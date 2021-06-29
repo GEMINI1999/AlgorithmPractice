@@ -20,9 +20,9 @@ import java.util.Scanner;
  * 直到
  * num/26 = 0
  *
- * 1 2 3 4 5 6 7 8 9 10 ... 26  27 28 29
- * A B C D E F G H I J  ... Z   AA AB AC
- * 0 1 2 3 4 5 6 7 8 9  ... 25  10 11 12
+ * 不正常的26进制 ：1 2 3 4 5 6 7 8 9 10 ... 26  27 28 29 ...
+ *                A B C D E F G H I J  ... Z   AA AB AC ...
+ * 正常的26进制 ： 0 1 2 3 4 5 6 7 8 9  ... 25  10 11 12 ...
  */
 public class P168 {
     public static String convertToTitle(int columnNumber) {
